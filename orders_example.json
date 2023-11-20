@@ -1,0 +1,26 @@
+[
+  {
+    "order_date": "1/11/2015",
+    "order_number": "12345",
+    "order_items": [
+      {
+        "type": "Example type with Per-Page Fee",
+        "pages": 1
+      },
+      {
+        "type": "Example type with Per-Page Fee",
+        "pages": 2
+      }
+    ]
+  },
+  {
+    "order_date": "1/17/2015",
+    "order_number": "12346",
+    "order_items": [
+      {
+        "type": "Example type with Flat Fee",
+        "pages": 1
+      }
+    ]
+  }
+]
